@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DesignPattern</string>
+    <string name="four">4</string>
+    <string name="two">2</string>
+    <string name="plus">plus</string>
+    <string name="multi">multi</string>
+    <string name="div">div</string>
+</resources>
